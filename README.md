@@ -14,6 +14,8 @@ An [Alfred](https://www.alfredapp.com/) 2/3 workflow that easily find and kill t
 	
 2. Press return to kill the selected process.
 
+[Alfred Workflows](http://www.alfredforum.com/topic/9277-what-is-binding-the-port/)
+
 ## License
 
 [WTFPL](http://www.wtfpl.net/about/)
