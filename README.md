@@ -4,9 +4,9 @@ An [Alfred](https://www.alfredapp.com/) 2/3 workflow that easily find and kill t
 
 ## Usage
 
-![](screenshot1.png)
+![](ScreenShot1.png)
 
-![](screenshot2.png)
+![](ScreenShot2.png)
 
 1. Type `lsof-i [46][protocol][@hostname|hostaddr][:service|port]`
 	- see more @ [LSOF(8) manual page -i option](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/lsof.8.html)
