@@ -11,7 +11,7 @@ An [Alfred](https://www.alfredapp.com/) 2/3 workflow that easily find and kill t
 1. Type `lsof-i [46][protocol][@hostname|hostaddr][:service|port]`
 	- see more @ [LSOF(8) manual page -i option](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/lsof.8.html)
 
-2. Press return to kill the process.
+2. Press return to kill the selected process.
 
 ## License
 
