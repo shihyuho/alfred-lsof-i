@@ -16,7 +16,7 @@ An [Alfred](https://www.alfredapp.com/) 2/3 workflow that easily find and kill t
 	
 	![](ScreenShot1.png)
 
-3. `lsof-i [process name]`
+3. `lsof-i [process]`
 	- 	Autocompletes process names
 	
 	![](ScreenShot3.png)	
